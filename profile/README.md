@@ -1,6 +1,7 @@
 # ISEKAI UNIVERSE
 Hello, World!
-We are Amateur Game Developer's Club
+
+We are Amateur Game Developer's Club.
 
 ## Repositories
 
