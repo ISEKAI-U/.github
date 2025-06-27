@@ -9,6 +9,7 @@ We are amateur game developer's club, who loves playing diverse games!:)
 ### Devs
 <table> <tr> 
   <td align="center"> <a href="https://github.com/liebenholz"> <img src="https://github.com/liebenholz.png" width="100px;" alt="liebenholz"/><br /> <sub><b>리벤쿤</b></sub> </a> </td> 
+  <td align="center"> <a href="https://github.com/DelynMk2"> <img src="https://github.com/DelynMk2.png" width="100px;" alt="DelynMk2"/><br /> <sub><b>데린</b></sub> </a> </td> 
 </tr> </table>
 
 ### Arts
