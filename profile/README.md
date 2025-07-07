@@ -4,8 +4,8 @@ Hello, World!
 We are amateur game developer's club, who loves playing diverse games!:)
 
 ## Repositories
-- `Unreal` Open World Adventure Project: **Chibi Wizards** (In Progress)
-- `Unity6` Quarter-view Action RPG Project: **Squary Knight** (In progress)
+- `Unreal` Open World Adventure Game Project: **Chibi Wizards** (In Progress)
+- `Unity6` Roguelite Bullet Hell Shooter Project: **Squary Knight** (In progress)
 
 ## Members
 ### Devs
