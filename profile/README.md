@@ -4,6 +4,7 @@ Hello, World!
 We are amateur game developer's club, who loves playing diverse games!:)
 
 ## Repositories
+- `Unity6` Running Action Shooter Project: **Dragon Knights** (In Progress)
 - `Unreal` Open World Adventure Game Project: **Chibi Wizards** (In Progress)
 - `Unity6` Roguelite Bullet Hell Shooter Project: **Squary Knight** (In progress)
 
